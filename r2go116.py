@@ -10,7 +10,7 @@ import r2pipe
 #
 # Description:
 # Quick & dirty r2 script to find function names and addresses and rename them
-# in go <= 1.16 stripped binaries.
+# in go >= 1.16 stripped binaries.
 # Other scripts that I found would not work since they were for go <= 1.12 and
 # lots of things changed in the compiler/linker.
 #
