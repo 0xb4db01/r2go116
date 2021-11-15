@@ -1,7 +1,7 @@
 # r2go116
 
 ## Description:
-Quick & dirty r2 script to find function names and addresses and rename them in go <= 1.16 stripped binaries.
+Quick & dirty r2 script to find function names and addresses and rename them in go >= 1.16 stripped binaries.
 Other scripts that I found would not work since they were for go <= 1.12 and lots of things changed in the compiler/linker.
 
 By no means this is perfect and reliable, it worked for me and hopefully it will work for others too.
